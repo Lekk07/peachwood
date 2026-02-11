@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Peachwood Jewellery - Backend API
 
 A complete RESTful API backend for the Peachwood luxury jewellery e-commerce platform built with Node.js, Express, and MongoDB.
@@ -523,3 +524,6 @@ This is a demo project for learning purposes. Feel free to fork and enhance!
 **Built with ❤️ using Node.js, Express, and MongoDB**
 
 For questions or issues, please open an issue on the repository.
+=======
+Peachwood jewellery website
+>>>>>>> fb2fc5e6cab04f57743eae58614130b0b77485da
